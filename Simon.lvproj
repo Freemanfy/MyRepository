@@ -13,7 +13,6 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Application Data.ctl" Type="VI" URL="../../../Simonfy/Application Data.ctl"/>
 		<Item Name="Enter finished" Type="VI" URL="../Enter finished"/>
-		<Item Name="Game Start Indicator.ctl" Type="VI" URL="../Game Start Indicator.ctl"/>
 		<Item Name="JKI_reference.vi" Type="VI" URL="../JKI_reference.vi"/>
 		<Item Name="Keep Entering.ctl" Type="VI" URL="../../../Simonfy/Keep Entering.ctl"/>
 		<Item Name="Login Button.ctl" Type="VI" URL="../Login Button.ctl"/>
@@ -26,6 +25,14 @@
 		<Item Name="Tab Control.ctl" Type="VI" URL="../Tab Control.ctl"/>
 		<Item Name="log.vi" Type="VI" URL="../log.vi"/>
 		<Item Name="sign.vi" Type="VI" URL="../sign.vi"/>
+		<Item Name="Simon Chars.ctl" Type="VI" URL="../Simon Chars.ctl"/>
+		<Item Name="Recordlog.vi" Type="VI" URL="../Recordlog.vi"/>
+		<Item Name="FindMaxnIndex.vi" Type="VI" URL="../FindMaxnIndex.vi"/>
+		<Item Name="BestPlayer.ctl" Type="VI" URL="../BestPlayer.ctl"/>
+		<Item Name="FindYourBuddy.ctl" Type="VI" URL="../FindYourBuddy.ctl"/>
+		<Item Name="FindUser.vi" Type="VI" URL="../FindUser.vi"/>
+		<Item Name="black.ctl" Type="VI" URL="../black.ctl"/>
+		<Item Name="Animation.vi" Type="VI" URL="../Animation.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="_2DArrToArrWfms.vi" Type="VI" URL="/&lt;vilib&gt;/sound2/lvsound2.llb/_2DArrToArrWfms.vi"/>
